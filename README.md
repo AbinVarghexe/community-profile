@@ -1,6 +1,5 @@
-```markdown
-# Hackthon Team Finder
+#Hackthon Team Finder
 
-## All Rights reseved to blankspace
+##All Rights reseved to blankspace
 
 ##*Italic text*
