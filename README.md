@@ -1,5 +1,5 @@
-#Hackthon Team Finder
+# Hackathon Team Finder
 
-##All Rights reseved to blankspace
+## All Rights Reserved to Blankspace
 
-##*Italic text*
+*Italic text*
